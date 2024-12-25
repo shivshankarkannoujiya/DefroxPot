@@ -181,30 +181,4 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 
 ![d7](https://github.com/TeamDefronix/DefroxPot/assets/104693696/7c5f1dd9-9a5c-4ea2-9690-c21777162665)
 
-
-# Contacts
-
-<p align="left">
-<a href="https://github.com/TeamDefronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Github.svg" width="64" height="64" alt="Github Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://www.facebook.com/defronix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="64" height="64" alt="Facebook Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://twitter.com/teamdefronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" width="64" height="64" alt="Twitter Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
-<a href="https://instagram.com/teamdefronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Instagram.svg" width="64" height="64" alt="Instagram Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
-<a href="https://whatsapp.com/channel/0029VaGltobEKyZ8eX8Ki82w"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/WhatsApp.svg" width="64" height="64" alt="WhatsApp Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
-<a href="https://youtube.com/@defronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" width="64" height="64" alt="Youtube Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
-<a href="https://www.linkedin.com/company/defronix/"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/LinkedIN.svg" width="64" height="64" alt="LinkedIN Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
-</p>
-
-# Support
-
-<p><a href="https://www.buymeacoffee.com/metaxone" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee" /></a></p><br><br><br>
-<p><a href="https://paypal.me/niteshsinghhacker" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/blue.svg" height="70" width="210" alt="Donate with paypal" /></a></p><br><br><br>
-<p><a href="https://tools.apgy.in/upi/Nitesh+Singh/niteshkumar5@ybl/" target="_blank"> <img align="left" style="border-radius:8px" src="https://user-images.githubusercontent.com/122822828/216837693-3480fcd2-b4fc-40ff-94f8-c5d7d4b82ad5.png" height="50" width="210" alt="Donate with paypal" /></a></p><br><br><br>
-<p><a href="https://razorpay.me/@technicalnavigator" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/122822828/216838288-a946ef91-f215-4286-926f-afa71d0c3760.png" height="50" width="210" alt="Donate with paypal" /></a></p><br><be>
-<br>
-  
-*This tool is currently a prototype and can be further improved. If you have more context or specific improvements in mind, We can tailor the further requirements to fit your needs*
-<div align="center">
-    <h1 id="Contributors">Thanks To All Contributors</h1>
-
-<a href="https://github.com/TeamDefronix/DefroxPot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TeamDefronix/DefroxPot" />
-</a>
 </div>
